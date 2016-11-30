@@ -41,7 +41,8 @@ Rotterdam|17-07-2016|[PERSKINDOL TRIATHLON 010](http://sandlex.livejournal.com/5
 Hoofddorp|04-09-2016|[12e Haarlemmermeer Run 2016](http://sandlex.livejournal.com/518198.html)|21 km|[1:25:26](https://www.strava.com/activities/700197134)|4th in M35
 Eindhoven|09-10-2016|[DLL Marathon Eindhoven](http://sandlex.livejournal.com/518528.html)|42 km|[2:59:05](https://www.strava.com/activities/739408882)	
 Nijmegen|20-11-2016|[Scholten Awater Zevenheuvelenloop](http://sandlex.livejournal.com/518721.html)|15 km|[0:58:31](https://www.strava.com/activities/781059023)|10k - 39:14
-Amsterdam|15-01-2017|Vondelparkloop 2017|10 km		
-Schoorl|12-02-2017|Groet uit Schoorl|30 km		
-Den Haag|12-03-2017|NN CPC Loop|21 km		
-Amstelveen|02-04-2017|AmstelveenZ Lentemarathon|42 km		
+Amsterdam|15-01-2017|Vondelparkloop 2017|10 km
+Schoorl|12-02-2017|Groet uit Schoorl|30 km
+Den Haag|12-03-2017|NN CPC Loop|21 km
+Amstelveen|02-04-2017|AmstelveenZ Lentemarathon|42 km
+Frankfurt|29-10-2017|Mainova Frankfurt Marathon 2017|42 km
