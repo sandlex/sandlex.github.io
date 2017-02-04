@@ -5,9 +5,9 @@ email
 * [strava](http://strava.com/athletes/7274293)
 * [runkeeper](https://runkeeper.com/user/sandlex)
 * [Polar Flow](https://flow.polar.com/training/profiles/8655986)
- * [instagram](https://www.instagram.com/sandlex)
- * [livejournal](http://sandlex.livejournal.com)
- * [tumblr](http://sandlex.tumblr.com)
+* [instagram](https://www.instagram.com/sandlex)
+* [livejournal](http://sandlex.livejournal.com)
+* [tumblr](http://sandlex.tumblr.com)
 
 ## Tech
 * [CV]()
@@ -41,8 +41,17 @@ Rotterdam|17-07-2016|[PERSKINDOL TRIATHLON 010](http://sandlex.livejournal.com/5
 Hoofddorp|04-09-2016|[12e Haarlemmermeer Run 2016](http://sandlex.livejournal.com/518198.html)|21 km|[1:25:26](https://www.strava.com/activities/700197134)|4th in M35
 Eindhoven|09-10-2016|[DLL Marathon Eindhoven](http://sandlex.livejournal.com/518528.html)|42 km|[2:59:05](https://www.strava.com/activities/739408882)	
 Nijmegen|20-11-2016|[Scholten Awater Zevenheuvelenloop](http://sandlex.livejournal.com/518721.html)|15 km|[0:58:31](https://www.strava.com/activities/781059023)|10k - 39:14
-Amsterdam|15-01-2017|Vondelparkloop 2017|10 km
+Amsterdam|15-01-2017|[Vondelparkloop 2017](http://sandlex.livejournal.com/518939.html)|10 km|[38:03](https://www.strava.com/activities/832811414)|8-th overall
 Schoorl|12-02-2017|Groet uit Schoorl|30 km
 Den Haag|12-03-2017|NN CPC Loop|21 km
 Amstelveen|02-04-2017|AmstelveenZ Lentemarathon|42 km
 Frankfurt|29-10-2017|Mainova Frankfurt Marathon 2017|42 km
+
+## PBs
+Distance|Time|Date|Race|Comment
+-----|----|----|--------|-------
+10 km|00:38:03|January 15, 2017|Vondelparkloop, Amsterdam
+15 km|00:58:31|November 20, 2016|Scholten Awater Zevenheuvelenloop, Nijmegen
+Half-marathon|01:25:26|September 4, 2016|Haarlemmermeer Run, Hoofddorp
+Marathon|02:59:05|October 9, 2016|DLL Marathon Eindhoven
+1/4 triathlon|02:34:09|July 17, 2016|PERSKINDOL TRIATHLON 010, Rotterdam|swim (1km) - 00:18:34 / T1 - 3:58 / bike (42.3km) - 01:24:12 / T2 - 2:06 / run (10.6km) - 00:45:21
