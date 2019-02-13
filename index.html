@@ -2,8 +2,17 @@
 <html>
 <body>
 <h1>Boo!</h1>
-  Running posts:
+
+
+  <ol>
+    {% for post in paginator.posts %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
+    {% endfor %}
+  </ol>
+
 <!--  
+  Running posts:
+
 518198.md
 513003.md
 514983.md
